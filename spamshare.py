@@ -8,8 +8,8 @@ import sys
 from rich.console import Console
 
 info = {
-  "owner": 'Astro Ksks',
-  "facebook": 'https://www.facebook.com/christhenoob13',
+  "owner": 'krisanto kirido',
+  "facebook": 'https://www.facebook.com/krisanto15',
   "tool": 'Spamshare',
   "version": '1',
 }
