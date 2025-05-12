@@ -14,7 +14,6 @@ info = {
   "version": '1',
 }
 
-# simuka dito wag mo na ibahin baka masira mo pa code
 config = {
   'cookies': '',
   'post': ''
